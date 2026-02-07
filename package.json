@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hachimi-Hachimi/hachimi_lib"
+    "url": "https://github.com/THShafi170/hachimi_lib"
   },
   "files": [
     "hachimi_lib_bg.wasm",
